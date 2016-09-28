@@ -13,8 +13,6 @@ public class Main {
 
 		System.out.println("Enter path: ");
 		// C:\Users\Eduardo\Desktop\dtset
-		// /Users/thais/Downloads/Lucene/arquivos
-		// C:/Users/leoffarias/Desktop/Lucene/arquivos
 		String docsPath = in.nextLine();
 
 		System.out.println("Do you want to override stopwords? (Y/N): ");
